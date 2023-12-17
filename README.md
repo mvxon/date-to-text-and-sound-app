@@ -26,7 +26,8 @@ python clear_empty.py
 python to_json.py
 ```
 
-Приготовления закончены, теперь можно узнать время запустив main.py
+Приготовления закончены, теперь можно запускать основые скрипты date-to-text.py и date-to-sound.py
 ```
-python main.py
+python date-to-text.py
+python date-to-sound.py
 ```
